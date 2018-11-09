@@ -1,6 +1,6 @@
 # nodeBackEndArtists !
 
-###node + express + mongodb
+### node + express + mongodb
 
 To start project enter in terminal :
 1. _Install dependences = npm install_,
